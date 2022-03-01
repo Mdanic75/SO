@@ -1,0 +1,2 @@
+# SO
+docker pentru so
